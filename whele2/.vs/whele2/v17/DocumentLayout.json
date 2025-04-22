@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C93054BA-3FCD-454A-9976-933E14A572BE}|whele2.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\num123.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C93054BA-3FCD-454A-9976-933E14A572BE}|whele2.vcxproj|solutionrelative:num123.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93054BA-3FCD-454A-9976-933E14A572BE}|whele2.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\tringle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C93054BA-3FCD-454A-9976-933E14A572BE}|whele2.vcxproj|solutionrelative:tringle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93054BA-3FCD-454A-9976-933E14A572BE}|whele2.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\series.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C93054BA-3FCD-454A-9976-933E14A572BE}|whele2.vcxproj|solutionrelative:series.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "num123.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\num123.cpp",
+              "RelativeDocumentMoniker": "num123.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\num123.cpp",
+              "RelativeToolTip": "num123.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T12:28:04.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tringle.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\tringle.cpp",
+              "RelativeDocumentMoniker": "tringle.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\tringle.cpp",
+              "RelativeToolTip": "tringle.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T11:57:13.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "series.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\series.cpp",
+              "RelativeDocumentMoniker": "series.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\whele2\\series.cpp",
+              "RelativeToolTip": "series.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T11:50:57.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
