@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\",
+  "WorkspaceRootPath": "D:\\proj\\while1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|solutionrelative:swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\while1\\swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\sumdigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|solutionrelative:sumdigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\while1\\avgmark.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:avgmark.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\area.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|solutionrelative:area.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\while1\\area.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:area.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\price.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|solutionrelative:price.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\while1\\price.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:price.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\salary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|solutionrelative:salary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\while1\\salary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:salary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\avgmark.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{929F7C5C-ACB4-4ECE-BA2D-36680BEBAB3B}|while1.vcxproj|solutionrelative:avgmark.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\while1\\sumdigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sumdigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,81 +38,76 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "avgmark.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\avgmark.cpp",
+              "DocumentMoniker": "D:\\proj\\while1\\avgmark.cpp",
               "RelativeDocumentMoniker": "avgmark.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\avgmark.cpp",
+              "ToolTip": "D:\\proj\\while1\\avgmark.cpp",
               "RelativeToolTip": "avgmark.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T11:32:28.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T11:32:28.461Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "area.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\area.cpp",
+              "DocumentMoniker": "D:\\proj\\while1\\area.cpp",
               "RelativeDocumentMoniker": "area.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\area.cpp",
+              "ToolTip": "D:\\proj\\while1\\area.cpp",
               "RelativeToolTip": "area.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T11:26:42.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T11:26:42.494Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "price.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\price.cpp",
+              "DocumentMoniker": "D:\\proj\\while1\\price.cpp",
               "RelativeDocumentMoniker": "price.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\price.cpp",
+              "ToolTip": "D:\\proj\\while1\\price.cpp",
               "RelativeToolTip": "price.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T11:14:24.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T11:14:24.823Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "salary.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\salary.cpp",
+              "DocumentMoniker": "D:\\proj\\while1\\salary.cpp",
               "RelativeDocumentMoniker": "salary.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\salary.cpp",
+              "ToolTip": "D:\\proj\\while1\\salary.cpp",
               "RelativeToolTip": "salary.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T11:04:47.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T11:04:47.297Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "swap.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\swap.cpp",
+              "DocumentMoniker": "D:\\proj\\while1\\swap.cpp",
               "RelativeDocumentMoniker": "swap.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\swap.cpp",
+              "ToolTip": "D:\\proj\\while1\\swap.cpp",
               "RelativeToolTip": "swap.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-22T10:05:56.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "sumdigit.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\sumdigit.cpp",
+              "DocumentMoniker": "D:\\proj\\while1\\sumdigit.cpp",
               "RelativeDocumentMoniker": "sumdigit.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppApps\\while1\\sumdigit.cpp",
+              "ToolTip": "D:\\proj\\while1\\sumdigit.cpp",
               "RelativeToolTip": "sumdigit.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T09:18:04.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T09:18:04.31Z"
             }
           ]
         }
