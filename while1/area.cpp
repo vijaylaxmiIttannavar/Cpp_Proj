@@ -1,4 +1,4 @@
-/*
+
 #include<iostream>
 using namespace std;
 #define PI 3.142
@@ -12,4 +12,3 @@ int main()
 
 	cout << "area = " << area << endl;
 }
-*/
